@@ -1,1 +1,1 @@
-# mysql-connect-to-nodejs
+# mysql-connect-to-node
